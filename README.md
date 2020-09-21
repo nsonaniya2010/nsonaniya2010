@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome to Neeraj Sonaniya's Profile
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=nsonaniya2010&show_icons=true&theme=tokyonight" width="350">
+<img align='middle' src="https://github-readme-stats.vercel.app/api?username=nsonaniya2010&show_icons=true&theme=tokyonight" width="350">
 
 <!--
 **nsonaniya2010/nsonaniya2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
