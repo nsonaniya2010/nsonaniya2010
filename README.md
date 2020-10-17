@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my Profile
+### Hi there 👋, welcome to my profile
 <img src="https://github-readme-stats.vercel.app/api?username=nsonaniya2010&show_icons=true&theme=tokyonight" width="480">
 
 - <img src="https://i.imgur.com/A9IgaiM.png" width=15px> Linkedin: <a href="https://www.linkedin.com/in/neerajsonaniya/">Reach me!</a>
