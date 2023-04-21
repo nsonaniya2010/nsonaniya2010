@@ -6,7 +6,7 @@
 - Resume: <a href="https://github.com/nsonaniya2010/resume/blob/master/Neeraj%20Sonaniya%20resume.pdf">Check my resume!</a>
 - 🔭 I’m currently working on Pre Commit hooks
 - 🌱 I’m currently learning DevSecOps and Cloud Security
-- 👯 I’m worked on Secret Hunting at Scale, SAST
+- 👯 I have worked on Secret Hunting at Scale, SAST
 - 💬 Ask me about Anything
 - 📫 How to reach me: nsonaniya2010@gmail.com
 - 😄 Pronouns: he/him
